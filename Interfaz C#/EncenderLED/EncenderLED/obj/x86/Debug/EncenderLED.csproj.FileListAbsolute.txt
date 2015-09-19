@@ -1,0 +1,34 @@
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.exe
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.pdb
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.frmTurnONTurnOFFLED.resources
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.exe
+C:\Users\Casa\Desktop\Arduino\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.pdb
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.exe
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.pdb
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.exe
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.pdb
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.frmTurnONTurnOFFLED.resources
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Documents\Encender LED con C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\MODIFICADO\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.exe
+C:\Users\David\Desktop\MODIFICADO\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.pdb
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.exe
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.pdb
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.exe
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.pdb
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csprojResolveAssemblyReference.cache
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.frmTurnONTurnOFFLED.resources
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\5 SEMESTRE\FUNDAMENTOS DE TELECOMUNICACIONES\TRABAJOS CRUZ\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.exe
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.pdb
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.exe
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\bin\Debug\EncenderLED.pdb
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.frmTurnONTurnOFFLED.resources
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\Interfaz C#\EncenderLED\EncenderLED\obj\x86\Debug\EncenderLED.csproj.GenerateResource.Cache
